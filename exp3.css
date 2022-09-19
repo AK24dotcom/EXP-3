@@ -6,7 +6,7 @@ margin: 0px; border: 0px; font-size: 48px; color: #FF0000;
 background-color: #f1eeee; text-shadow: 0 1px 0 #020202; text-align: center;
 }
 #s1 a{
-color:blue;
+color:red;
 font-family: Arial, Helvetica, sans-serif;
 }
 #s1 img{
@@ -15,7 +15,7 @@ height: 55px; margin: 0px; padding: 0px;
 ul {
 list-style-type: none; margin: 0;
 padding: 0; overflow: hidden;
-background-color: #003399;
+background-color: #666666;
 }
 li { float:left;
 text-align: center;
@@ -75,7 +75,7 @@ color: rgb(255, 255, 255); margin: 0px;}
 .c1 p{
 padding-left: 10px; padding-right: 20px; padding-bottom: 0%; text-align: right; font-weight: bold; font-size: 25px;
 font-family: Arial, Helvetica, sans-serif;}
-.c3{border: 4px solid red; background-color: #003399; color: white;
+.c3{border: 4px solid red; background-color: #666666; color: white;
 margin: 0px;}
 .c3 p{
 height: 1auto;
@@ -100,5 +100,6 @@ text-decoration: none; color:white;
 font-family: Arial, Helvetica, sans-serif;} #basil{
 color: black; font-size: 10px; padding: 3px;
 }
+
 
 
